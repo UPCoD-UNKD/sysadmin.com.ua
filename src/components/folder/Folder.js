@@ -6,12 +6,14 @@ import './Folder.css'
 function Folder () {
     return (
         <div className="folder">
+            <div className='print'>
         <div className='file__inner'>
             <PhotoBox/>
             <Header/>
             <ExperienceBox/>
             <SkillsBox/>
     
+        </div>
         </div>
         </div>
     )

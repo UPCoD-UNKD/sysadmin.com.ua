@@ -13,3 +13,13 @@
     flex-wrap: wrap;
     flex-direction: column;
 }
+.print {
+    width: 755px;
+    height: 1050px;
+    background-color: white;
+    margin-left: 70px;
+    margin-top: 65px;
+    transform: rotate(-4deg);
+    padding: 10px;
+    box-sizing: border-box;
+}

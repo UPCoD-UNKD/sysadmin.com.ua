@@ -1,0 +1,36 @@
+.header {
+    max-width: 490px;
+    width: 100%;
+    text-align: center;
+}
+.name-box {
+    font-size: 33px;
+    line-height: 50px;
+    text-transform: uppercase;
+    height: 70px;
+    background: #d5d5d5;
+    position: relative;
+    padding-top: 10px;
+    margin-right: 0;
+    font-weight: bold;
+    border: 2px solid black;
+}
+.about-box {
+    border: 2px solid black;
+    width: 100%;
+    border: 2px solid #5d5d5d;
+    border-radius: 2px;
+    padding: 4px 3px 0;
+    margin: 10px 10px 10px 0;
+}
+.title {
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: bold;
+    background: #d5d5d5;
+}
+.text {
+    border-bottom: 2px solid black;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
