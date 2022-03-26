@@ -1,0 +1,15 @@
+.folder {
+    width: 928px;
+    height: 1150px;
+    background: url('../../images/folder-bg.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+.file__inner {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
