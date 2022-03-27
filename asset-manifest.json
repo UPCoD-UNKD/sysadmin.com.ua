@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sysadmin.com.ua/static/css/main.230f9d91.css",
+    "main.css": "/sysadmin.com.ua/static/css/main.f1216c87.css",
     "main.js": "/sysadmin.com.ua/static/js/main.fb54eb01.js",
     "static/media/folder-bg.png": "/sysadmin.com.ua/static/media/folder-bg.d49c2ba0bc337968fea8.png",
     "static/media/fallout.ttf": "/sysadmin.com.ua/static/media/fallout.5bade80db56f0ef2fbd3.ttf",
     "index.html": "/sysadmin.com.ua/index.html",
-    "main.230f9d91.css.map": "/sysadmin.com.ua/static/css/main.230f9d91.css.map",
+    "main.f1216c87.css.map": "/sysadmin.com.ua/static/css/main.f1216c87.css.map",
     "main.fb54eb01.js.map": "/sysadmin.com.ua/static/js/main.fb54eb01.js.map"
   },
   "entrypoints": [
-    "static/css/main.230f9d91.css",
+    "static/css/main.f1216c87.css",
     "static/js/main.fb54eb01.js"
   ]
 }
