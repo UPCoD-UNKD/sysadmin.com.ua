@@ -1,10 +1,11 @@
 import "./Header.css"
-function Header () {
+
+function Header() {
     return (
         <div className="header">
             <div className="name-box">
                 Андрей Роговский
-                </div>
+            </div>
             <div className="about-box">
                 <div className="line title">Character Concept</div>
                 <p className="text">IT-консультант с опытом работы более 15-и лет.</p>

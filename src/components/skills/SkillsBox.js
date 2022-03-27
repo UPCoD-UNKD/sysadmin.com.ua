@@ -1,8 +1,8 @@
 import './SkillsBox.css'
 function SkillsBox() {
-    return (
-        <div className="skills"> 
-		<h1 className="heading skills">SKILLS</h1>
+	return (
+		<div className="skills">
+			<h1 className="heading skills">SKILLS</h1>
 			<div className="box">
 				<div className="skills_inner">
 					<div className="skill_title">Linux</div>
@@ -21,6 +21,6 @@ function SkillsBox() {
 				</div>
 			</div>
 		</div>
-    )
+	)
 }
 export default SkillsBox;
