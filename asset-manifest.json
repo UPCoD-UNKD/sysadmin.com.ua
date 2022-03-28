@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/sysadmin.com.ua/static/css/main.f1216c87.css",
-    "main.js": "/sysadmin.com.ua/static/js/main.fb54eb01.js",
+    "main.css": "/sysadmin.com.ua/static/css/main.b9aede19.css",
+    "main.js": "/sysadmin.com.ua/static/js/main.8b87acb7.js",
     "static/media/folder-bg.png": "/sysadmin.com.ua/static/media/folder-bg.d49c2ba0bc337968fea8.png",
+    "static/media/clip.png": "/sysadmin.com.ua/static/media/clip.314b4616949ac3ba8e75.png",
+    "static/media/foto-polaroid.png": "/sysadmin.com.ua/static/media/foto-polaroid.dc6234b8609f74f27591.png",
     "static/media/fallout.ttf": "/sysadmin.com.ua/static/media/fallout.5bade80db56f0ef2fbd3.ttf",
+    "static/media/elem_r.png": "/sysadmin.com.ua/static/media/elem_r.be27ff2c7d5b59681a1e.png",
+    "static/media/elem_l.png": "/sysadmin.com.ua/static/media/elem_l.b30b7cdf9c50321e887d.png",
     "index.html": "/sysadmin.com.ua/index.html",
-    "main.f1216c87.css.map": "/sysadmin.com.ua/static/css/main.f1216c87.css.map",
-    "main.fb54eb01.js.map": "/sysadmin.com.ua/static/js/main.fb54eb01.js.map"
+    "main.b9aede19.css.map": "/sysadmin.com.ua/static/css/main.b9aede19.css.map",
+    "main.8b87acb7.js.map": "/sysadmin.com.ua/static/js/main.8b87acb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1216c87.css",
-    "static/js/main.fb54eb01.js"
+    "static/css/main.b9aede19.css",
+    "static/js/main.8b87acb7.js"
   ]
 }
