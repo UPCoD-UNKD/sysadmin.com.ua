@@ -4,7 +4,7 @@ function Header() {
     return (
         <div className="header">
             <div className="name-box">
-                Андрей Роговский
+               <p className="name-box__name"> Андрей Роговский </p>
             </div>
             <div className="about-box">
                 <div className="line title">Character Concept</div>

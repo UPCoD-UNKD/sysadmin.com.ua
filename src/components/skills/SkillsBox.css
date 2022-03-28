@@ -1,7 +1,7 @@
 .skills {
   font-size: 20px;
   margin: 5px 0px 0px 0px;
-  border: 2px solid black;
+  border: 2px solid #5d5d5d;
   max-width: 859px;
   width: 100%;
 }
@@ -20,7 +20,7 @@
 
 .skills_inner {
   display: flex;
-  border: 2px solid black;
+  border: 2px solid #5d5d5d;
   justify-content: space-between;
   width: 98.2%;
   height: 35px;
