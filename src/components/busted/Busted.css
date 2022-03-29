@@ -1,11 +1,26 @@
 .busted {
-    position: absolute;
-    z-index: 100;
-    animation: 4s show ease-out;
-    left: 75px;
+  position: absolute;
+  z-index: 100;
+  left: 75px;
+  animation-name: pulse;
+  animation-delay: 1s;
+  opacity: 0;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
 }
-@keyframes show {
-    from {opacity: 0;}
-    to{opacity: 1;}
-    
+
+@keyframes pulse {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.5;
+    transform-origin: 50% 50%;
+    transform: rotate(2deg) scale(5);
+    transition: all 0.3s cubic-bezier(0.6, 0.04, 0.98, 0.335);
+  }
+  100% {
+    opacity: 1;
+    transform: rotate(21deg) scale(1);
+  }
 }
