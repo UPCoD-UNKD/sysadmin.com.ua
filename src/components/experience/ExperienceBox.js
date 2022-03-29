@@ -1,14 +1,17 @@
-import './ExperienceBox.css'
+import './ExperienceBox.css';
+import Busted from "../busted/Busted"
 function ExperienceBox() {
     return (
         <div className="experience-box">
             <h1 className='heading'>Game match results</h1>
             <div className="experience__inner">
+            
                 <div className="experience-item">
                     <div className="period-box">
                         <div className='title'>2009 - по настоящее время</div>
                     </div>
                     <div className="description-box">
+                    <Busted/>
                         <div className='text'>
                             <span>Class:</span>
                             IT-Консультант по безопасности и автоматизации.
@@ -70,6 +73,7 @@ function ExperienceBox() {
                     </div>
                 </div>
                 <div className="experience-item">
+                    <Busted/>
                     <div className="period-box">
                         <div className='title'>
                             Ноябрь 2005 - Март 2004

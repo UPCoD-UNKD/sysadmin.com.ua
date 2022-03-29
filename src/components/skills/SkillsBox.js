@@ -1,4 +1,4 @@
-import './SkillsBox.css'
+import './SkillsBox.css';
 function SkillsBox() {
 	return (
 		<div className="skills">

@@ -1,0 +1,11 @@
+.busted {
+    position: absolute;
+    z-index: 100;
+    animation: 4s show ease-out;
+    left: 75px;
+}
+@keyframes show {
+    from {opacity: 0;}
+    to{opacity: 1;}
+    
+}
