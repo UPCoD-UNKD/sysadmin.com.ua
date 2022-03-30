@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/sysadmin.com.ua/static/css/main.f0383c7b.css",
-    "main.js": "/sysadmin.com.ua/static/js/main.fd9b6591.js",
-    "static/media/folder-bg.png": "/sysadmin.com.ua/static/media/folder-bg.d49c2ba0bc337968fea8.png",
-    "static/media/clip.png": "/sysadmin.com.ua/static/media/clip.314b4616949ac3ba8e75.png",
+    "main.css": "/sysadmin.com.ua/static/css/main.01435243.css",
+    "main.js": "/sysadmin.com.ua/static/js/main.44a64475.js",
     "static/media/busted.png": "/sysadmin.com.ua/static/media/busted.4aa30fa9663f6fb812d8.png",
-    "static/media/foto-polaroid.png": "/sysadmin.com.ua/static/media/foto-polaroid.dc6234b8609f74f27591.png",
     "static/media/fallout.ttf": "/sysadmin.com.ua/static/media/fallout.5bade80db56f0ef2fbd3.ttf",
+    "static/media/folder-bg.jpg": "/sysadmin.com.ua/static/media/folder-bg.6fe3cebc988e369383cc.jpg",
+    "static/media/clip.webp": "/sysadmin.com.ua/static/media/clip.68dc9777a4290ad70031.webp",
     "static/media/elem_r.png": "/sysadmin.com.ua/static/media/elem_r.be27ff2c7d5b59681a1e.png",
     "static/media/elem_l.png": "/sysadmin.com.ua/static/media/elem_l.b30b7cdf9c50321e887d.png",
     "index.html": "/sysadmin.com.ua/index.html",
-    "main.f0383c7b.css.map": "/sysadmin.com.ua/static/css/main.f0383c7b.css.map",
-    "main.fd9b6591.js.map": "/sysadmin.com.ua/static/js/main.fd9b6591.js.map"
+    "main.01435243.css.map": "/sysadmin.com.ua/static/css/main.01435243.css.map",
+    "main.44a64475.js.map": "/sysadmin.com.ua/static/js/main.44a64475.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0383c7b.css",
-    "static/js/main.fd9b6591.js"
+    "static/css/main.01435243.css",
+    "static/js/main.44a64475.js"
   ]
 }
