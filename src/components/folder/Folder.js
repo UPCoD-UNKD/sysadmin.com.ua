@@ -3,6 +3,7 @@ import Header from "../header/Header";
 import SkillsBox from "../skills/SkillsBox";
 import PhotoBox from "../photo-box/PhotoBox";
 import Footer from "../footer/Footer";
+import Busted from "../busted/Busted";
 import LinkThruth from "../link_thruth/LinkThruth";
 import "./Folder.css";
 function Folder() {
@@ -10,6 +11,7 @@ function Folder() {
 		<div className="folder">
 			<div className="print">
 				<div className="file__inner">
+					<Busted />
 					<PhotoBox />
 					<Header />
 					<ExperienceBox />
@@ -17,6 +19,7 @@ function Folder() {
 					<Footer />
 				</div>
 			</div>
+
 			<LinkThruth />
 		</div>
 	);
