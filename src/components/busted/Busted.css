@@ -1,7 +1,7 @@
 .busted {
 	position: absolute;
-	top: 20%;
-	left: 10%;
+	top: 25%;
+	left: 5%;
 	z-index: 100;
 	animation: 3s show ease-out;
 }
