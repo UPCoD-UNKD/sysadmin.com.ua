@@ -1,0 +1,54 @@
+.skills {
+  font-size: 20px;
+  margin: 5px 0px 0px 0px;
+  border: 2px solid #5d5d5d;
+  max-width: 859px;
+  width: 100%;
+}
+
+.heading.skills {
+  font-size: 25px;
+  background: #d5d5d5;
+  margin: 5px 5px 5px 5px;
+  border: none;
+  width: 98.8%;
+}
+
+.box {
+  margin-bottom: 5px;
+}
+
+.skills_inner {
+  display: flex;
+  border: 2px solid #5d5d5d;
+  justify-content: space-between;
+  width: 98.2%;
+  height: 35px;
+  margin-left: 5px;
+  margin-bottom: 2px;
+
+}
+
+.skill_title {
+  background: #d5d5d5;
+  max-width: 224px;
+  text-align: center;
+  width: 100%;
+  margin: 5px 0px;
+}
+
+.skill_text {
+  max-width: 721px;
+  text-align: center;
+  width: 100%;
+  margin: 5px 0px;
+
+}
+
+.skill_year {
+  background: #d5d5d5;
+  max-width: 96px;
+  text-align: center;
+  width: 100%;
+  margin: 5px 0px;
+}
