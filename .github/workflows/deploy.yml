@@ -19,6 +19,6 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
-          publish_branch: gh_pages
-
+          disable_nojekyll: true
+          cname: xn--80aikcthwb.com.ua
+          disable_nojekyll: true
