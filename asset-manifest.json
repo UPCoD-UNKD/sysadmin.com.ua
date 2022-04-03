@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aadf8aca.css",
+    "main.js": "/static/js/main.bfa6ef7c.js",
+    "static/media/busted.png": "/static/media/busted.4aa30fa9663f6fb812d8.png",
+    "static/media/fallout.ttf": "/static/media/fallout.5bade80db56f0ef2fbd3.ttf",
+    "static/media/folder-bg.jpg": "/static/media/folder-bg.6fe3cebc988e369383cc.jpg",
+    "static/media/clip.webp": "/static/media/clip.68dc9777a4290ad70031.webp",
+    "static/media/elem_r.png": "/static/media/elem_r.be27ff2c7d5b59681a1e.png",
+    "static/media/elem_l.png": "/static/media/elem_l.b30b7cdf9c50321e887d.png",
+    "index.html": "/index.html",
+    "main.aadf8aca.css.map": "/static/css/main.aadf8aca.css.map",
+    "main.bfa6ef7c.js.map": "/static/js/main.bfa6ef7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aadf8aca.css",
+    "static/js/main.bfa6ef7c.js"
+  ]
+}
